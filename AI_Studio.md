@@ -24,3 +24,8 @@ Reflective Sense-making is the deliberate process of using AI as a cognitive par
     
 **In Practice**: It's about turning the AI from an answer machine into a strategic thinking partner who can provide structure to your critical reflection.
 AI-Powered Reflective Learning
+
+
+## Reference:
+[AI-Powered Reflective Learning](https://www.youtube.com/watch?v=LElB5-rhP4Q)
+
